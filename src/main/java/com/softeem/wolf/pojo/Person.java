@@ -16,5 +16,7 @@ public class Person implements Serializable {
 
     private Integer age;
 
+    private String account;
+
 
 }
