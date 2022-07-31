@@ -18,6 +18,5 @@ public class Person implements Serializable {
 
     private String account;
 
-    private Integer height;
-
+    private String email;
 }
